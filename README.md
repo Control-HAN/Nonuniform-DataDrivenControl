@@ -1,5 +1,5 @@
 # Nonuniform-DataDrivenControl
-S. Y. Han, “Nonuniform Data-driven Control for Networked Control Systems with Safe Set,” International Journal of Control, Automation, and Systems, under review.
+S. Y. Han, “Nonuniform Data-driven Control for Networked Control Systems with Safe Set,” International Journal of Control, Automation, and Systems, Under Review.
 
 
 
