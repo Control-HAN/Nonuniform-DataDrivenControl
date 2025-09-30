@@ -18,8 +18,7 @@ MATLAB implementation of **Nonuniform-DataDrivenControl (DDC)** by [Seungyong Ha
 The proposed **LMPC** is a framework for sampled-data control systems with partially unknown dynamics. 
 The nonuniform data-driven control (DDC) method is proposed for safe networked control systems (NCSs). The proposed DDC approach guarantees closed-loop stability and keeping the system state within a prescribed safe operating region, even when the plant is subject to physical constraints. In this method, nonuniformly observed data is utilized to design a stabilizing controller without an explicit plant model. The controller design condition is derived by using a looped-functional approach. This condition is formulated in terms of linear matrix inequalities (LMIs) that incorporate the constraint of a safe set. Finally, the effectiveness of the proposed method is validated through a numerical example, demonstrating that the closed-loop system can indeed be stabilized.
 
-# 2. Getting Started
-## Required Packages
+# 2. Program
 - MATLAB R2024b+
 
 ## Contact
