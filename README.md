@@ -16,13 +16,11 @@ MATLAB implementation of **Nonuniform-DataDrivenControl (DDC)** by [Seungyong Ha
 # 1. Method
 
 <!-- The proposed **LMPC** is a framework for sampled-data control systems with partially unknown dynamics. 
-In the addressed system, a plant is dependent on a time-varying parameter whose dynamics is unknown. To learn the unknown dynamics, a neural network (NN) is trained using **a neural ordinary differential equation (NODE)**. The trained NN is integrated into the sampled-data MPC framework to estimate the time-varying parameter and predict future system states. The proposed LMPC method guarantees ultimate boundedness for the sampled data control system that operates with a continuous-time plant and a discrete-time control strategy.-->
+The nonuniform data-driven control (DDC) method is proposed for safe networked control systems (NCSs). The proposed DDC approach guarantees closed-loop stability and keeping the system state within a prescribed safe operating region, even when the plant is subject to physical constraints. In this method, nonuniformly observed data is utilized to design a stabilizing controller without an explicit plant model. The controller design condition is derived by using a looped-functional approach. This condition is formulated in terms of linear matrix inequalities (LMIs) that incorporate the constraint of a safe set. Finally, the effectiveness of the proposed method is validated through a numerical example, demonstrating that the closed-loop system can indeed be stabilized..-->
 
 # 2. Getting Started
 ## Required Packages
 - MATLAB R2024b+
-  - CasADi 3.6.7 (https://web.casadi.org/get/)
-  - MPT 3.0 (https://people.ee.ethz.ch/~mpt/2/downloads/)
 
 ## Contact
  - If you have questions or suggestions, please reach out via email [hansy@jbnu.ac.kr](mailto:hansy@jbnu.ac.kr).
