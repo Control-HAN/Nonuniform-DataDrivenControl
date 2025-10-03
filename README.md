@@ -19,7 +19,7 @@ The nonuniform data-driven control (DDC) method is proposed for safe networked c
 
 # 2. Requirements
 - MATLAB R2024b+
-
+- YALMIP (available at https://yalmip.github.io/download/)
 ## Contact
  - If you have questions or suggestions, please reach out via email [hansy@jbnu.ac.kr](mailto:hansy@jbnu.ac.kr).
 
