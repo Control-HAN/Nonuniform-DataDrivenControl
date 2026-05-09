@@ -1,4 +1,4 @@
-%% Nonuniform Data-driven Control for Networked Control Systems with Safe Set
+%% Nonuniform Data-driven Control for Networked Control Systems with Safe Set 
 % Copyright (C)
 % Authors: Seungyong Han <hansy@jbnu.ac.kr>
 % 
@@ -18,7 +18,7 @@ close all
 warning('off','all')
 clc
 
-%% Data Acquisition
+%% Data Acquisition 
 global A B
 A = [0 1;
     0 -0.1];
