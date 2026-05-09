@@ -1,4 +1,4 @@
-%% Nonuniform Data-driven Control for Networked Control Systems with Safe Set/n
+%% Nonuniform Data-driven Control for Networked Control Systems with Safe Set/r
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Copyright (C)
 % Authors: Seungyong Han <hansy@jbnu.ac.kr>
